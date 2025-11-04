@@ -2,6 +2,7 @@
 
 This repository accompanies the paper "Electric Vehicle Charging Load Forecasting: An Experimental Comparison of Machine Learning Methods" (I. Kyriakopoulos, Y. Theodoridis, 2025).
 It provides all code, configuration, and processed data necessary to reproduce the experiments.
+
 ---
 
 ## Repository Structure

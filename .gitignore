@@ -1,0 +1,13 @@
+# Ignore preprocessed data files
+data/data_preprocessed/preprocessed_boulder/df_10min.pkl
+data/data_preprocessed/preprocessed_boulder/df_hour.pkl
+data/data_preprocessed/preprocessed_dundee/df_10min.pkl
+data/data_preprocessed/preprocessed_dundee/df_hour.pkl
+data/data_preprocessed/preprocessed_palo_alto/df_10min.pkl
+data/data_preprocessed/preprocessed_palo_alto/df_hour.pkl
+data/data_preprocessed/preprocessed_perth/df_10min.pkl
+data/data_preprocessed/preprocessed_perth/df_hour.pkl
+results/results_palo_alto/palo_alto_arima/arima_min.pkl
+results/results_perth/perth_arima/arima_min.pkl
+results/results_perth/perth_arima/gru_min.pkl
+results/results_dundee/dundee_arima/arima_min.pkl

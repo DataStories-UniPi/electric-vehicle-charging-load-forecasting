@@ -1,0 +1,54 @@
+# Environment snapshot — Python 3.8.10
+# Core ML and data libraries used for preprocessing, training, and forecasting
+
+tensorflow==2.13.0
+tensorflow-estimator==2.13.0
+tensorflow-io-gcs-filesystem==0.32.0
+keras==2.13.1
+xgboost==2.1.4
+scikit-learn==1.3.2
+statsmodels==0.14.1
+pmdarima==2.0.4
+
+# Data handling & utilities
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.10.1
+joblib==1.4.2
+holidays==0.58
+pytz==2025.2
+tzdata==2025.2
+
+# TensorFlow dependencies
+absl-py==1.4.0
+astunparse==1.6.3
+flatbuffers==23.5.26
+gast==0.4.0
+google-auth==2.21.0
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+grpcio==1.56.0
+h5py==3.9.0
+libclang==16.0.0
+protobuf==4.23.3
+opt-einsum==3.3.0
+typing_extensions==4.5.0
+threadpoolctl==3.5.0
+
+# Other essentials
+packaging==23.1
+patsy==1.0.1
+Markdown==3.4.3
+MarkupSafe==2.1.3
+Werkzeug==2.3.6
+wrapt==1.15.0
+rsa==4.9
+oauthlib==3.2.2
+requests==2.22.0
+requests-oauthlib==1.3.1
+urllib3==1.25.8
+idna==2.8
+six==1.14.0
+zipp==3.15.0
+importlib-metadata==6.7.0
+nvidia-nccl-cu12==2.27.7
